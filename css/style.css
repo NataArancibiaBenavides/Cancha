@@ -1,0 +1,50 @@
+div{
+	width: 1050px;
+	height: 1000px;
+    float: right;
+
+
+}
+#Cancha{
+	position: fixed;
+	top: 10px;
+	bottom: 100px;
+	right: 500px;
+	left:200px;
+	background-image: url(../img/Cancha.png);
+	background-repeat: no-repeat;
+	background-size: 1000px;
+	
+}
+#Balon1{
+    position:fixed;
+	top:135px;
+	bottom: 480px;
+	right: 950px;
+	left: 320px;
+	
+	background-image:url(../img/ball.png);
+	background-size: 24px;
+	background-repeat: no-repeat;
+
+}
+#Balon2{
+	position: fixed;
+	top:130px;
+	bottom: 450px;
+	right: 100px;
+	left: 710px;
+	background-image:url(../img/ball2.png);
+	background-size: 24px;
+	background-repeat: no-repeat;
+	}
+#Balon3{
+	position: fixed;
+	top:400px;
+	bottom: 450px;
+	right: 100px;
+	left: 1028px;
+	background-image:url(../img/ball2.png);
+	background-size: 24px;
+	background-repeat: no-repeat;
+}
